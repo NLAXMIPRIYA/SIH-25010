@@ -362,32 +362,29 @@ By providing personalized guidance, the system enables farmers to make informed 
 The cooperative farming model fosters collective engagement, ensuring equitable participation for all members regardless of financial capacity. This structure promotes collaboration, mutual support, and shared learning among farmers.
 Recognizing the stress inherent in farming, the system incorporates mental wellbeing monitoring to identify early signs of distress and provides timely support through community counselors or cooperative networks.
 
-1. Social – Build Community, Not Just Crops
-
+1. Social-Impact – Build Community, Not Just Crops
 Real connections: Folks share wins (and fails), swap advice, and actually trust each other.
 Cooperative strength: No one’s left in the dust—everyone pulls together.
 Isolation who?: Support’s right there, whether it’s a lending hand or just hearing “been there, man” from someone who gets it.
 
-2. Economic – More Than Just Pennies
-
+2. Economic-Impact – More Than Just Pennies
 Bigger yields, smarter spending: Goodbye guesswork, hello higher profits.
 Lower costs: You buy, sell, and plan as a group—gets better deals and cuts down wasted cash.
 Fair markets: Collective bargaining opens those fancy doors that used to slam shut for the little guys.
 
-3. Environmental – Farming That Doesn’t Trash the Earth
-
+3. Environmental-Impact – Farming That Doesn’t Trash the Earth
 Sustainable everything: Integrated pest tricks, smart irrigation, proper rotation—all that good green stuff.
 Protects long-term: Keeps the ground lush and the water running, without going full chemical apocalypse.
 Built for the future: The whole system’s about climate-resilience, not just quick fixes.
-How It All Comes Together
 
-Bring together sharp technology, actual teamwork, and support that doesn’t judge or ignore—boom, farming stops being all “sink or swim.” Suddenly:
+<b>How It All Comes Together</b>
 
+<i>Bring together sharp technology, actual teamwork, and support that doesn’t judge or ignore—boom, farming stops being all “sink or swim.” Suddenly:
 It’s less about surviving, more about thriving.
 Communities get tighter, trust builds.
 Wallets feel heavier, futures look brighter.
 People actually want to be farmers (imagine that!).
-So, bottom line? This system flips the script. From solo struggle to collective win. Old-school hardship to smart, sustainable living. Because, let’s be real, it’s about time farmers felt seen, heard, and actually able to look forward to something better.
+So, bottom line? This system flips the script. From solo struggle to collective win. Old-school hardship to smart, sustainable living. Because, let’s be real, it’s about time farmers felt seen, heard, and actually able to look forward to something better.</i>
 
 ## Research and References
 https://kisanvedika.bighaat.com/11-major-problems-faced-by-indian-farmers-in-agriculture-in-2023/
