@@ -270,11 +270,13 @@ Recognizing the stress inherent in farming, the system incorporates mental wellb
 Real connections: Folks share wins (and fails), swap advice, and actually trust each other.
 Cooperative strength: No one’s left in the dust—everyone pulls together.
 Isolation who?: Support’s right there, whether it’s a lending hand or just hearing “been there, man” from someone who gets it.
+
 2. Economic – More Than Just Pennies
 
 Bigger yields, smarter spending: Goodbye guesswork, hello higher profits.
 Lower costs: You buy, sell, and plan as a group—gets better deals and cuts down wasted cash.
 Fair markets: Collective bargaining opens those fancy doors that used to slam shut for the little guys.
+
 3. Environmental – Farming That Doesn’t Trash the Earth
 
 Sustainable everything: Integrated pest tricks, smart irrigation, proper rotation—all that good green stuff.
