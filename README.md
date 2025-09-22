@@ -62,6 +62,9 @@ Robust, equitable, and sustainable agriculture shaping a brighter tomorrow.
 
 <p>In sum, the convergence of advanced analytics, cooperative values, humane mental health outreach, and sustainable agricultural methods introduces a paradigm where small farmers are genuinely empowered—fully integrated, valued, and resilient contributors to a more robust and prosperous agrarian future.</p>
 
+## Visual Respresentation
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9921ae7e-ed54-4674-b59d-633728b5e36a" />
+
 ## Technical Approach
 **Overview of the Proposed Solution**
 
@@ -195,9 +198,99 @@ Our system is a comprehensive, multi-layered, data-driven platform specifically 
     - Focuses on efficient, sustainable use of natural and cooperative resources.
     - Supports broader community resilience and empowerment.
 
-- **Visual Respresentation**
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9921ae7e-ed54-4674-b59d-633728b5e36a" />
 
+---
+## Technology Stack and Frameworks
+
+**1. Artificial Intelligence and Machine Learning**
+
+- **Frameworks**:  
+  - TensorFlow  
+  - PyTorch  
+  - Scikit-learn  
+  - Hugging Face  
+
+*These tools support advanced prediction, classification, and natural language processing tasks within the system.*
+
+---
+
+**2. Data Processing and Management**
+
+- **Technologies**:  
+  - Apache Kafka (data streaming)  
+  - Apache Spark (large-scale data processing)  
+  - Google Earth Engine (geospatial and satellite data)  
+
+*These components are essential for handling high-volume, complex datasets efficiently.*
+
+---
+
+**3. IoT and Edge Computing**
+
+- **Components**:  
+  - Raspberry Pi (edge devices)  
+  - Node-RED (workflow automation)  
+  - LoRaWAN (long-range wireless communication)  
+  - MQTT (messaging protocol for IoT)  
+
+*These tools enable robust data collection and communication across distributed smart devices.*
+
+---
+
+**4. Cloud Infrastructure and Backend**
+
+- **Frameworks and Tools**:  
+  - Django REST Framework  
+  - FastAPI  
+  - Docker (containerization)  
+  - Kubernetes (orchestration)  
+
+*This stack ensures reliable, scalable backend services and efficient resource management.*
+
+---
+
+**5. User Interfaces**
+
+- **Technologies**:  
+  - Flutter  
+  - React Native  
+  - IVR Systems (Interactive Voice Response)  
+
+*Multiple interface options enhance accessibility across platforms and devices.*
+
+---
+
+**6. Blockchain and Cooperative Optimization**
+
+- **Technologies**:  
+  - Hyperledger Fabric (permissioned blockchain)  
+  - OR-Tools (optimization tools)  
+
+*These facilitate secure, transparent collaborations and advanced decision optimization.*
+
+---
+
+**7. Mental Health Tools**
+
+- **Technologies**:  
+  - OpenSMILE (voice analysis)  
+  - librosa (audio analysis)  
+  - TensorFlow Lite (on-device machine learning)  
+
+*They support real-time mental health assessments and interventions, often via voice analysis.*
+
+---
+
+**8. Security**
+
+- **Standards and Tools**:  
+  - OAuth 2.0 (authentication)  
+  - AES-256 (encryption)  
+  - Keycloak (identity and access management)  
+
+*Security protocols protect user data and ensure safe system operations.*
+
+---
 
 
 
