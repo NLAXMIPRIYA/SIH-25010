@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:22/09/2025
-## Register Number:
-## Name:
+## Register Number:25010344
+## Name:N LAXMI PRIYA
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
